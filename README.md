@@ -1,3 +1,5 @@
+![Header](./header.png)
+
 # TubeQR
 
 Generate QR codes for all videos in a YouTube playlist - perfect for educational materials, advent calendars or sharing playlists!
