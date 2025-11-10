@@ -2,12 +2,11 @@
 
 # TubeQR
 
-Generate QR codes for all videos in a YouTube playlist - perfect for educational materials, advent calendars or sharing playlists!
+Generate QR codes for all videos in a YouTube playlist. Perfect for educational materials, advent calendars or sharing playlists!
 
 ## Features
 
 - 🎬 Works with YouTube playlists and single videos
-- 🚫 No video downloads - fetches metadata only
 - 🔢 Numbered output: `01_VideoTitle.png`, `02_VideoTitle.png`, etc.
 - 📋 Creates an overview text file with all video links
 - ⚡ Fast and lightweight
@@ -71,10 +70,10 @@ youtube_qr_codes/
 
 ## Use Cases
 
-- 📅 **Advent Calendars**: Print QR codes for daily video reveals
 - 🎓 **Education**: Create scannable links for course playlists
+- 📅 **Advent Calendars**: Print QR codes for daily video reveals throughout December
 - 🎁 **Gifts**: Share playlists in a physical format
-- 📱 **Easy Sharing**: Convert playlists to scannable codes
+- 📱 **Easy Sharing**: Convert playlists to scannable codes for events, workshops, or presentations
 
 ## License
 
